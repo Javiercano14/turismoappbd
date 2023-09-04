@@ -1,6 +1,7 @@
 package com.example.TurismoaApplication.modelos;
 
 import jakarta.persistence.*;
+import org.springframework.stereotype.Controller;
 
 @Entity
 @Table(name="empresas")
